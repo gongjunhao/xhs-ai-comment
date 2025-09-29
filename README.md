@@ -17,7 +17,7 @@
 
 ### 3.1 Chrome浏览器安装步骤
 
-1. 下载插件压缩包并解压
+1. 下载插件压缩包并解压  [xhs.zip](https://blog.soundjourney.top/upload/xhs.zip)
 2. 打开Chrome浏览器，访问 `chrome://extensions/`
 3. 开启右上角"开发者模式"
 4. 点击"加载已解压的扩展程序"
